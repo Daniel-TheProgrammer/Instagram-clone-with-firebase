@@ -5,7 +5,7 @@ import shrinkImageAsync from './utils/shrinkImageAsync';
 import uploadPhoto from './utils/uploadPhoto';
 
 const firebase = require('firebase');
-// Required for side-effe
+// Required for side-eff
 require('firebase/firestore');
 
 const collectionName = 'snack-SJucFknGX';
