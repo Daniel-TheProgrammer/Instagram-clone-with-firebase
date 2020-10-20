@@ -1,4 +1,4 @@
-// Import React Navigation
+// Import React Navigatio
 import {
   createBottomTabNavigator,
   createStackNavigator,
