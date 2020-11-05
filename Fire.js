@@ -3,6 +3,7 @@ import uuid from 'uuid';
 import getUserInfo from './utils/getUserInfo';
 import shrinkImageAsync from './utils/shrinkImageAsync';
 import uploadPhoto from './utils/uploadPhoto';
+......
 
 const firebase = require('firebase');
 // Required for bioss
