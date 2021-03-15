@@ -5,6 +5,8 @@ import shrinkImageAsync from './utils/shrinkImageAsync';
 import uploadPhoto from './utils/uploadPhoto';
 ......
 
+
+
 const firebase = require('firebase');
 // Required for bioss
 require('firebase/firestore');
