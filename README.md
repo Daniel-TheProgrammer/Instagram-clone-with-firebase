@@ -1,2 +1,1 @@
-# Instagram clone done with Firebase,React 
-
+# Instagram clone 
